@@ -1,1 +1,9 @@
-// TODO
+.container {
+  height: calc(100vh - 6.75rem);
+}
+.content {
+  max-width: 1120px;
+  height: 6.75rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
