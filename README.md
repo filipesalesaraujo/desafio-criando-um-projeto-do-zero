@@ -1,0 +1,1 @@
+Nesse desafio, foi feito uma aplicação onde o principal objetivo é criar um blog do zero. Foi entregue uma aplicação em branco que deve consumir os dados do Prismic e ter a interface implementada.
